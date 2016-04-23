@@ -10,3 +10,4 @@
         React.DOM.div
           className: 'panel-body'
           amountFormat(@props.amount)
+
